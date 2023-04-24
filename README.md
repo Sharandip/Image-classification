@@ -1,5 +1,5 @@
 # Olive Leaf Image Classification
-Introduction
+##Introduction
 
 In this project a dataset of 3400 olive leaf images collected from Denizli city of Turkey during spring and summer are given. Three classes of these images:
 
@@ -7,7 +7,7 @@ In this project a dataset of 3400 olive leaf images collected from Denizli city 
 2. Leaf images infected with Olive peacock spot.
 3. Leaf images with healthy leaves.
 
-Objective
+##Objective
 
 1. Load and prepare images for modeling.
 2. Develop a convolutional neural network for image classification.
